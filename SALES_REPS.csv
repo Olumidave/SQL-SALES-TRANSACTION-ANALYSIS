@@ -1,0 +1,151 @@
+sales_rep_id,first_name,last_name,email,hire_date,termination_date,employment_status,sales_team,territory,manager_id,base_salary,commission_rate,quota_annual,performance_tier
+REP-0001,Daniel,Brown,daniel.brown@globaltech.com,2017-05-25,,Active,Enterprise Sales,LATAM,MGR-003,88000.00,8.00,1294000.00,Meets Expectations
+REP-0002,Jason,Richardson,jason.richardson@globaltech.com,2017-03-17,,Active,Inside Sales,East,MGR-004,56000.00,10.00,497000.00,Meets Expectations
+REP-0003,Robert,Collins,robert.collins@globaltech.com,2016-05-01,,Active,SMB Sales,Central,MGR-001,66000.00,10.00,516000.00,High Performer
+REP-0004,Jason,Harris,jason.harris@globaltech.com,2017-01-11,,Active,Enterprise Sales,East,MGR-005,83000.00,7.00,1049000.00,High Performer
+REP-0005,Melissa,Evans,melissa.evans@globaltech.com,2018-10-24,,Active,Mid-Market,APAC,MGR-004,78000.00,8.00,826000.00,Below Expectations
+REP-0006,James,King,james.king@globaltech.com,2017-09-15,,Active,SMB Sales,LATAM,MGR-002,65000.00,10.00,588000.00,High Performer
+REP-0007,James,Phillips,james.phillips@globaltech.com,2023-06-28,2024-09-18,Terminated,Partner Sales,APAC,MGR-005,75000.00,7.00,1404000.00,Top Performer
+REP-0008,Nicole,Walker,nicole.walker@globaltech.com,2023-03-22,,Active,Inside Sales,West,MGR-003,61000.00,12.00,450000.00,High Performer
+REP-0009,David,Morris,david.morris@globaltech.com,2021-10-24,2023-08-16,Terminated,Inside Sales,LATAM,MGR-005,62000.00,10.00,464000.00,Meets Expectations
+REP-0010,Timothy,Rivera,timothy.rivera@globaltech.com,2017-04-18,,Active,Mid-Market,EMEA,MGR-004,73000.00,8.00,858000.00,High Performer
+REP-0011,Andrew,White,andrew.white@globaltech.com,2021-08-12,,Active,Enterprise Sales,EMEA,MGR-005,83000.00,7.00,1284000.00,Meets Expectations
+REP-0012,Jennifer,Howard,jennifer.howard@globaltech.com,2016-08-13,,Active,Mid-Market,EMEA,MGR-002,71000.00,9.00,836000.00,High Performer
+REP-0013,Michael,Thomas,michael.thomas@globaltech.com,2022-05-28,,Active,Enterprise Sales,Central,MGR-003,86000.00,9.00,1199000.00,Below Expectations
+REP-0014,Eric,Taylor,eric.taylor@globaltech.com,2016-07-20,,Active,Partner Sales,East,MGR-004,68000.00,6.00,1473000.00,Below Expectations
+REP-0015,Justin,Cooper,justin.cooper@globaltech.com,2018-07-11,,Active,Mid-Market,APAC,MGR-003,74000.00,8.00,935000.00,High Performer
+REP-0016,Maria,Harris,maria.harris@globaltech.com,2021-04-08,,Active,Mid-Market,West,MGR-005,70000.00,9.00,923000.00,Meets Expectations
+REP-0017,David,Cooper,david.cooper@globaltech.com,2021-05-17,,Active,Inside Sales,East,MGR-003,62000.00,10.00,492000.00,High Performer
+REP-0018,John,Taylor,john.taylor@globaltech.com,2020-07-01,,Active,Enterprise Sales,EMEA,MGR-002,81000.00,8.00,1026000.00,High Performer
+REP-0019,Steven,Howard,steven.howard@globaltech.com,2017-04-10,,Active,SMB Sales,Central,MGR-002,61000.00,10.00,553000.00,High Performer
+REP-0020,Steven,Rivera,steven.rivera@globaltech.com,2020-02-08,,Active,Partner Sales,Central,MGR-004,69000.00,8.00,1225000.00,Meets Expectations
+REP-0021,Brian,Roberts,brian.roberts@globaltech.com,2023-06-17,,Active,Inside Sales,West,MGR-002,61000.00,10.00,476000.00,High Performer
+REP-0022,Brian,King,brian.king@globaltech.com,2021-04-05,,Active,SMB Sales,APAC,MGR-004,62000.00,10.00,581000.00,Meets Expectations
+REP-0023,Kimberly,Taylor,kimberly.taylor@globaltech.com,2020-06-15,,Active,Inside Sales,East,MGR-005,56000.00,10.00,511000.00,Below Expectations
+REP-0024,Jason,King,jason.king@globaltech.com,2022-08-09,,Active,Inside Sales,Central,MGR-004,56000.00,10.00,544000.00,High Performer
+REP-0025,Timothy,Wright,timothy.wright@globaltech.com,2023-07-12,,Active,Inside Sales,West,MGR-003,62000.00,12.00,497000.00,Below Expectations
+REP-0026,Andrew,Lopez,andrew.lopez@globaltech.com,2022-10-31,,Active,Inside Sales,LATAM,MGR-004,59000.00,10.00,538000.00,Top Performer
+REP-0027,Joshua,Peterson,joshua.peterson@globaltech.com,2021-09-08,,Active,Inside Sales,EMEA,MGR-005,57000.00,10.00,538000.00,Meets Expectations
+REP-0028,Timothy,Walker,timothy.walker@globaltech.com,2016-10-30,2017-08-01,Terminated,Inside Sales,East,MGR-004,55000.00,10.00,423000.00,Below Expectations
+REP-0029,Eric,White,eric.white@globaltech.com,2022-10-22,,Active,Enterprise Sales,LATAM,MGR-001,89000.00,9.00,1288000.00,High Performer
+REP-0030,Nicole,Lee,nicole.lee@globaltech.com,2021-11-12,,Active,SMB Sales,West,MGR-001,65000.00,10.00,507000.00,Meets Expectations
+REP-0031,Timothy,Mitchell,timothy.mitchell@globaltech.com,2016-09-10,,Active,SMB Sales,Central,MGR-005,68000.00,10.00,562000.00,Meets Expectations
+REP-0032,Jason,Rogers,jason.rogers@globaltech.com,2020-07-28,,Active,Enterprise Sales,Central,MGR-003,83000.00,7.00,1231000.00,High Performer
+REP-0033,Rebecca,Clark,rebecca.clark@globaltech.com,2019-05-05,2022-03-13,Terminated,Enterprise Sales,East,MGR-001,87000.00,8.00,1133000.00,Meets Expectations
+REP-0034,Joshua,Nelson,joshua.nelson@globaltech.com,2016-12-18,,Active,Inside Sales,East,MGR-002,55000.00,10.00,417000.00,High Performer
+REP-0035,Rachel,Wright,rachel.wright@globaltech.com,2022-12-31,2024-08-23,Terminated,Enterprise Sales,East,MGR-003,90000.00,8.00,1266000.00,High Performer
+REP-0036,Rebecca,Bell,rebecca.bell@globaltech.com,2018-06-16,,Active,Inside Sales,West,MGR-005,60000.00,12.00,403000.00,Meets Expectations
+REP-0037,James,Cooper,james.cooper@globaltech.com,2017-12-06,,Active,SMB Sales,EMEA,MGR-004,66000.00,10.00,640000.00,Meets Expectations
+REP-0038,Michael,Stewart,michael.stewart@globaltech.com,2016-04-11,,Active,Partner Sales,LATAM,MGR-005,73000.00,7.00,1449000.00,High Performer
+REP-0039,Robert,Bell,robert.bell@globaltech.com,2022-08-11,,Active,Inside Sales,Central,MGR-003,62000.00,12.00,419000.00,Top Performer
+REP-0040,James,Evans,james.evans@globaltech.com,2018-04-21,,Active,Enterprise Sales,East,MGR-001,87000.00,9.00,1093000.00,Meets Expectations
+REP-0041,Rachel,Phillips,rachel.phillips@globaltech.com,2019-09-07,,Active,Mid-Market,APAC,MGR-001,72000.00,8.00,867000.00,Meets Expectations
+REP-0042,Michelle,Rivera,michelle.rivera@globaltech.com,2024-05-25,,Active,Mid-Market,LATAM,MGR-004,70000.00,8.00,929000.00,Meets Expectations
+REP-0043,Daniel,Robinson,daniel.robinson@globaltech.com,2019-07-31,,Active,SMB Sales,Central,MGR-002,63000.00,10.00,521000.00,Meets Expectations
+REP-0044,Nicole,Green,nicole.green@globaltech.com,2017-01-02,,Active,Enterprise Sales,Central,MGR-001,83000.00,9.00,1089000.00,Top Performer
+REP-0045,Robert,Howard,robert.howard@globaltech.com,2018-02-04,,Active,Partner Sales,East,MGR-005,73000.00,6.00,1315000.00,Top Performer
+REP-0046,James,Wright,james.wright@globaltech.com,2021-10-25,,Active,Enterprise Sales,LATAM,MGR-001,90000.00,9.00,1083000.00,High Performer
+REP-0047,Tom,Walker,tom.walker@globaltech.com,2023-12-22,,Active,SMB Sales,EMEA,MGR-004,62000.00,10.00,621000.00,Meets Expectations
+REP-0048,Amanda,Murphy,amanda.murphy@globaltech.com,2022-12-06,,Active,Inside Sales,East,MGR-003,61000.00,10.00,521000.00,Meets Expectations
+REP-0049,Kevin,Miller,kevin.miller@globaltech.com,2016-07-24,,Active,Mid-Market,West,MGR-005,70000.00,8.00,874000.00,Meets Expectations
+REP-0050,Rachel,Turner,rachel.turner@globaltech.com,2023-08-29,,Active,SMB Sales,APAC,MGR-004,67000.00,10.00,554000.00,Meets Expectations
+REP-0051,Timothy,Hill,timothy.hill@globaltech.com,2015-01-25,,Active,Partner Sales,Central,MGR-001,70000.00,6.00,1307000.00,Meets Expectations
+REP-0052,Jason,White,jason.white@globaltech.com,2015-07-08,,Active,Enterprise Sales,West,MGR-003,82000.00,7.00,1224000.00,High Performer
+REP-0053,Matthew,Green,matthew.green@globaltech.com,2018-08-16,,Active,Mid-Market,EMEA,MGR-003,70000.00,10.00,887000.00,Meets Expectations
+REP-0054,Emma,Martin,emma.martin@globaltech.com,2017-02-18,,Active,Enterprise Sales,West,MGR-005,80000.00,8.00,1059000.00,High Performer
+REP-0055,Amanda,Carter,amanda.carter@globaltech.com,2018-07-02,,Active,Partner Sales,Central,MGR-001,75000.00,8.00,1353000.00,New Hire
+REP-0056,Maria,Edwards,maria.edwards@globaltech.com,2023-01-19,,Active,Partner Sales,APAC,MGR-003,69000.00,6.00,1444000.00,Top Performer
+REP-0057,Rebecca,King,rebecca.king@globaltech.com,2019-09-27,,Active,Enterprise Sales,East,MGR-003,86000.00,8.00,1258000.00,Meets Expectations
+REP-0058,Sarah,Scott,sarah.scott@globaltech.com,2021-10-26,,Active,SMB Sales,LATAM,MGR-002,64000.00,10.00,602000.00,High Performer
+REP-0059,Kimberly,Campbell,kimberly.campbell@globaltech.com,2024-02-21,,Active,Partner Sales,APAC,MGR-005,74000.00,6.00,1294000.00,Top Performer
+REP-0060,Timothy,Carter,timothy.carter@globaltech.com,2016-09-01,,On Leave,Inside Sales,EMEA,MGR-003,55000.00,10.00,528000.00,High Performer
+REP-0061,Mark,Miller,mark.miller@globaltech.com,2018-12-12,,Active,SMB Sales,LATAM,MGR-001,67000.00,10.00,618000.00,Meets Expectations
+REP-0062,Michelle,Perez,michelle.perez@globaltech.com,2023-01-27,,Active,SMB Sales,EMEA,MGR-001,65000.00,10.00,600000.00,Meets Expectations
+REP-0063,Amy,Peterson,amy.peterson@globaltech.com,2021-03-23,,Active,SMB Sales,LATAM,MGR-003,61000.00,10.00,568000.00,Meets Expectations
+REP-0064,Timothy,White,timothy.white@globaltech.com,2021-04-01,,Active,Enterprise Sales,LATAM,MGR-004,90000.00,7.00,1261000.00,High Performer
+REP-0065,Michael,Jackson,michael.jackson@globaltech.com,2020-08-22,,Active,Enterprise Sales,East,MGR-003,89000.00,7.00,1182000.00,Meets Expectations
+REP-0066,Tom,Hill,tom.hill@globaltech.com,2016-01-29,,Active,Inside Sales,LATAM,MGR-003,59000.00,10.00,429000.00,Top Performer
+REP-0067,Amanda,Hill,amanda.hill@globaltech.com,2015-09-09,,Active,SMB Sales,LATAM,MGR-002,62000.00,10.00,569000.00,Meets Expectations
+REP-0068,Jason,Bailey,jason.bailey@globaltech.com,2021-11-30,,Active,Mid-Market,APAC,MGR-002,76000.00,9.00,943000.00,Meets Expectations
+REP-0069,Rachel,Davis,rachel.davis@globaltech.com,2023-07-09,,Active,Mid-Market,West,MGR-003,73000.00,10.00,845000.00,High Performer
+REP-0070,Rachel,Young,rachel.young@globaltech.com,2021-01-06,,Active,SMB Sales,Central,MGR-003,67000.00,10.00,536000.00,Meets Expectations
+REP-0071,John,Collins,john.collins@globaltech.com,2015-02-24,,Active,Partner Sales,APAC,MGR-001,75000.00,7.00,1590000.00,High Performer
+REP-0072,Jessica,Moore,jessica.moore@globaltech.com,2023-12-08,,Active,Inside Sales,EMEA,MGR-004,58000.00,10.00,459000.00,Below Expectations
+REP-0073,Matthew,Martin,matthew.martin@globaltech.com,2019-11-24,,Active,Partner Sales,West,MGR-005,71000.00,6.00,1288000.00,High Performer
+REP-0074,Robert,Lee,robert.lee@globaltech.com,2020-03-21,,Active,Enterprise Sales,East,MGR-004,86000.00,9.00,1033000.00,High Performer
+REP-0075,Mark,Roberts,mark.roberts@globaltech.com,2018-06-11,,Active,Mid-Market,APAC,MGR-003,70000.00,9.00,903000.00,Meets Expectations
+REP-0076,Kevin,Cook,kevin.cook@globaltech.com,2023-04-22,,Active,Inside Sales,Central,MGR-001,60000.00,12.00,473000.00,Top Performer
+REP-0077,Stephanie,Wright,stephanie.wright@globaltech.com,2017-02-02,,Active,Inside Sales,APAC,MGR-001,61000.00,10.00,522000.00,Meets Expectations
+REP-0078,Jennifer,Lopez,jennifer.lopez@globaltech.com,2019-04-21,,Active,Enterprise Sales,LATAM,MGR-002,88000.00,8.00,1163000.00,Meets Expectations
+REP-0079,Amy,Ward,amy.ward@globaltech.com,2018-07-01,,Active,Inside Sales,EMEA,MGR-003,55000.00,12.00,453000.00,High Performer
+REP-0080,John,Morris,john.morris@globaltech.com,2018-09-30,,Active,Partner Sales,Central,MGR-005,70000.00,6.00,1376000.00,High Performer
+REP-0081,Timothy,Bell,timothy.bell@globaltech.com,2020-04-11,2023-04-22,Terminated,Partner Sales,EMEA,MGR-001,71000.00,8.00,1257000.00,Meets Expectations
+REP-0082,Maria,Anderson,maria.anderson@globaltech.com,2023-02-26,,Active,Partner Sales,EMEA,MGR-003,75000.00,8.00,1438000.00,Meets Expectations
+REP-0083,Kimberly,Murphy,kimberly.murphy@globaltech.com,2023-06-20,,Active,Mid-Market,Central,MGR-003,71000.00,8.00,844000.00,High Performer
+REP-0084,David,Roberts,david.roberts@globaltech.com,2015-07-24,,Active,Enterprise Sales,East,MGR-003,87000.00,9.00,1091000.00,Meets Expectations
+REP-0085,Maria,Richardson,maria.richardson@globaltech.com,2020-10-11,,Active,SMB Sales,West,MGR-005,60000.00,10.00,632000.00,Meets Expectations
+REP-0086,Matthew,Moore,matthew.moore@globaltech.com,2015-03-13,,Active,SMB Sales,East,MGR-003,65000.00,10.00,505000.00,Meets Expectations
+REP-0087,Andrew,Davis,andrew.davis@globaltech.com,2019-10-08,,Active,Partner Sales,Central,MGR-002,70000.00,7.00,1377000.00,Meets Expectations
+REP-0088,Mark,Johnson,mark.johnson@globaltech.com,2021-08-15,,Active,SMB Sales,Central,MGR-004,68000.00,10.00,535000.00,Meets Expectations
+REP-0089,Chris,King,chris.king@globaltech.com,2017-05-25,,Active,Inside Sales,Central,MGR-004,60000.00,12.00,408000.00,Top Performer
+REP-0090,Stephanie,Murphy,stephanie.murphy@globaltech.com,2015-10-17,,Active,Partner Sales,East,MGR-003,74000.00,8.00,1353000.00,High Performer
+REP-0091,Kimberly,Bailey,kimberly.bailey@globaltech.com,2016-04-16,,Active,SMB Sales,APAC,MGR-002,66000.00,10.00,500000.00,Top Performer
+REP-0092,Emma,Lewis,emma.lewis@globaltech.com,2021-10-08,,Active,Enterprise Sales,APAC,MGR-005,90000.00,7.00,1056000.00,High Performer
+REP-0093,Chris,Morgan,chris.morgan@globaltech.com,2015-07-18,,Active,Enterprise Sales,Central,MGR-005,83000.00,8.00,1186000.00,High Performer
+REP-0094,Chris,White,chris.white@globaltech.com,2021-12-19,,Active,Partner Sales,LATAM,MGR-002,73000.00,7.00,1556000.00,Meets Expectations
+REP-0095,Daniel,Phillips,daniel.phillips@globaltech.com,2020-08-31,,Active,Mid-Market,EMEA,MGR-002,73000.00,8.00,803000.00,New Hire
+REP-0096,Rachel,Lopez,rachel.lopez@globaltech.com,2021-03-01,,Active,Mid-Market,East,MGR-001,78000.00,10.00,883000.00,Top Performer
+REP-0097,Stephanie,Moore,stephanie.moore@globaltech.com,2016-07-06,2022-03-07,Terminated,Inside Sales,West,MGR-004,57000.00,10.00,495000.00,Below Expectations
+REP-0098,Daniel,White,daniel.white@globaltech.com,2016-05-15,,Active,Partner Sales,Central,MGR-005,72000.00,7.00,1269000.00,High Performer
+REP-0099,Angela,Green,angela.green@globaltech.com,2015-12-14,,Active,Inside Sales,Central,MGR-002,62000.00,12.00,414000.00,Meets Expectations
+REP-0100,Rachel,Murphy,rachel.murphy@globaltech.com,2017-05-09,,Active,Mid-Market,APAC,MGR-005,78000.00,8.00,835000.00,Meets Expectations
+REP-0101,Jennifer,Miller,jennifer.miller@globaltech.com,2022-09-15,,Active,Mid-Market,EMEA,MGR-004,76000.00,8.00,878000.00,Meets Expectations
+REP-0102,Chris,Campbell,chris.campbell@globaltech.com,2017-12-28,,Active,Inside Sales,EMEA,MGR-002,55000.00,10.00,443000.00,Meets Expectations
+REP-0103,Angela,Bailey,angela.bailey@globaltech.com,2016-02-19,,Active,Mid-Market,West,MGR-005,70000.00,8.00,817000.00,High Performer
+REP-0104,Maria,Torres,maria.torres@globaltech.com,2021-12-11,,Active,Enterprise Sales,East,MGR-005,89000.00,9.00,1149000.00,Meets Expectations
+REP-0105,Eric,Lopez,eric.lopez@globaltech.com,2017-07-19,,Active,Enterprise Sales,APAC,MGR-004,82000.00,7.00,1211000.00,High Performer
+REP-0106,Laura,Bell,laura.bell@globaltech.com,2020-06-02,,Active,Partner Sales,EMEA,MGR-003,73000.00,7.00,1316000.00,High Performer
+REP-0107,Matthew,Cooper,matthew.cooper@globaltech.com,2018-03-04,,Active,Partner Sales,East,MGR-005,72000.00,7.00,1288000.00,High Performer
+REP-0108,Daniel,Morris,daniel.morris@globaltech.com,2017-12-31,,Active,Enterprise Sales,LATAM,MGR-001,80000.00,9.00,1224000.00,High Performer
+REP-0109,Angela,Martinez,angela.martinez@globaltech.com,2020-09-17,,Active,SMB Sales,East,MGR-003,65000.00,10.00,554000.00,High Performer
+REP-0110,Mark,Lopez,mark.lopez@globaltech.com,2015-10-01,,Active,Enterprise Sales,EMEA,MGR-004,90000.00,7.00,1063000.00,High Performer
+REP-0111,Rachel,Morris,rachel.morris@globaltech.com,2020-12-19,,Active,Partner Sales,East,MGR-001,69000.00,7.00,1450000.00,Meets Expectations
+REP-0112,Jason,Garcia,jason.garcia@globaltech.com,2019-01-07,,Active,Inside Sales,APAC,MGR-003,58000.00,10.00,471000.00,Top Performer
+REP-0113,Mark,Ward,mark.ward@globaltech.com,2023-01-12,,Active,Enterprise Sales,Central,MGR-005,88000.00,8.00,1227000.00,High Performer
+REP-0114,Mark,Brown,mark.brown@globaltech.com,2022-12-21,2024-12-09,Terminated,Enterprise Sales,West,MGR-004,81000.00,7.00,1266000.00,High Performer
+REP-0115,Joshua,Green,joshua.green@globaltech.com,2021-05-24,,Active,Partner Sales,West,MGR-001,75000.00,7.00,1510000.00,High Performer
+REP-0116,Steven,Garcia,steven.garcia@globaltech.com,2019-08-22,,Active,SMB Sales,LATAM,MGR-002,60000.00,10.00,563000.00,High Performer
+REP-0117,Justin,Phillips,justin.phillips@globaltech.com,2015-01-30,,Active,Partner Sales,West,MGR-001,68000.00,6.00,1388000.00,Top Performer
+REP-0118,Jennifer,Jones,jennifer.jones@globaltech.com,2016-06-18,,Active,Partner Sales,West,MGR-002,75000.00,6.00,1421000.00,Top Performer
+REP-0119,Elizabeth,Moore,elizabeth.moore@globaltech.com,2019-09-29,2020-12-10,Terminated,Inside Sales,LATAM,MGR-005,56000.00,10.00,435000.00,Meets Expectations
+REP-0120,Joshua,Martin,joshua.martin@globaltech.com,2023-03-05,,Active,Partner Sales,APAC,MGR-002,68000.00,6.00,1242000.00,Meets Expectations
+REP-0121,Melissa,Green,melissa.green@globaltech.com,2021-11-10,,Active,Partner Sales,West,MGR-005,69000.00,6.00,1257000.00,High Performer
+REP-0122,Ryan,Jones,ryan.jones@globaltech.com,2016-11-28,,Active,Mid-Market,APAC,MGR-002,75000.00,8.00,899000.00,Meets Expectations
+REP-0123,Robert,Turner,robert.turner@globaltech.com,2021-06-11,2024-11-19,Terminated,Partner Sales,APAC,MGR-004,69000.00,6.00,1550000.00,High Performer
+REP-0124,Sarah,Moore,sarah.moore@globaltech.com,2021-10-14,,Active,SMB Sales,LATAM,MGR-004,61000.00,10.00,646000.00,High Performer
+REP-0125,Emma,Rivera,emma.rivera@globaltech.com,2021-11-25,,Active,Partner Sales,Central,MGR-002,73000.00,6.00,1424000.00,Meets Expectations
+REP-0126,Elizabeth,Mitchell,elizabeth.mitchell@globaltech.com,2019-10-23,2020-08-18,Terminated,Enterprise Sales,LATAM,MGR-005,87000.00,7.00,1245000.00,High Performer
+REP-0127,Sarah,Martinez,sarah.martinez@globaltech.com,2023-08-20,,Active,Mid-Market,APAC,MGR-004,75000.00,8.00,802000.00,Below Expectations
+REP-0128,Joshua,Anderson,joshua.anderson@globaltech.com,2023-12-27,,Active,Mid-Market,LATAM,MGR-003,74000.00,8.00,841000.00,Meets Expectations
+REP-0129,Amy,Williams,amy.williams@globaltech.com,2015-01-24,,Active,Mid-Market,East,MGR-002,73000.00,8.00,893000.00,Meets Expectations
+REP-0130,Jennifer,Evans,jennifer.evans@globaltech.com,2020-07-31,,Active,Inside Sales,West,MGR-002,60000.00,10.00,449000.00,Meets Expectations
+REP-0131,Samantha,Thomas,samantha.thomas@globaltech.com,2019-11-28,,Active,SMB Sales,East,MGR-005,63000.00,10.00,560000.00,Below Expectations
+REP-0132,Rachel,Miller,rachel.miller@globaltech.com,2023-01-14,,Active,Enterprise Sales,EMEA,MGR-003,90000.00,8.00,1003000.00,High Performer
+REP-0133,Justin,Robinson,justin.robinson@globaltech.com,2019-09-26,,Active,Enterprise Sales,West,MGR-001,86000.00,9.00,1193000.00,Top Performer
+REP-0134,Justin,Reed,justin.reed@globaltech.com,2015-12-25,,Active,Mid-Market,East,MGR-004,71000.00,8.00,852000.00,Top Performer
+REP-0135,Tom,Clark,tom.clark@globaltech.com,2020-04-18,,Active,Inside Sales,APAC,MGR-004,58000.00,10.00,470000.00,Top Performer
+REP-0136,Kevin,King,kevin.king@globaltech.com,2023-05-18,,Active,Partner Sales,LATAM,MGR-003,70000.00,6.00,1570000.00,Below Expectations
+REP-0137,Timothy,Lee,timothy.lee@globaltech.com,2020-04-22,,Active,SMB Sales,East,MGR-004,64000.00,10.00,565000.00,Meets Expectations
+REP-0138,Joshua,Cook,joshua.cook@globaltech.com,2015-07-05,,Active,Inside Sales,LATAM,MGR-005,57000.00,10.00,538000.00,High Performer
+REP-0139,Ryan,Phillips,ryan.phillips@globaltech.com,2021-04-21,,Active,Partner Sales,LATAM,MGR-002,72000.00,6.00,1377000.00,Meets Expectations
+REP-0140,Kimberly,Johnson,kimberly.johnson@globaltech.com,2019-04-12,2021-08-20,Terminated,SMB Sales,LATAM,MGR-003,68000.00,10.00,506000.00,Top Performer
+REP-0141,Justin,Bell,justin.bell@globaltech.com,2018-04-30,,Active,Enterprise Sales,LATAM,MGR-002,83000.00,9.00,1228000.00,New Hire
+REP-0142,Amy,Taylor,amy.taylor@globaltech.com,2015-05-24,,Active,Mid-Market,EMEA,MGR-001,71000.00,8.00,933000.00,High Performer
+REP-0143,John,Carter,john.carter@globaltech.com,2020-05-27,,Active,Enterprise Sales,East,MGR-004,84000.00,9.00,1001000.00,Meets Expectations
+REP-0144,Kevin,Wright,kevin.wright@globaltech.com,2024-05-21,,Active,Mid-Market,West,MGR-004,73000.00,8.00,918000.00,High Performer
+REP-0145,Melissa,Hill,melissa.hill@globaltech.com,2016-01-02,,Active,Inside Sales,LATAM,MGR-002,57000.00,12.00,503000.00,Below Expectations
+REP-0146,Kevin,Peterson,kevin.peterson@globaltech.com,2019-09-11,,Active,Partner Sales,LATAM,MGR-004,75000.00,7.00,1555000.00,Meets Expectations
+REP-0147,Rebecca,Parker,rebecca.parker@globaltech.com,2018-03-01,,Active,Mid-Market,West,MGR-002,77000.00,10.00,909000.00,Top Performer
+REP-0148,Angela,Campbell,angela.campbell@globaltech.com,2020-12-19,,Active,SMB Sales,EMEA,MGR-002,61000.00,10.00,515000.00,Meets Expectations
+REP-0149,Emma,Jackson,emma.jackson@globaltech.com,2021-09-29,,Active,Enterprise Sales,APAC,MGR-005,82000.00,8.00,1128000.00,High Performer
+REP-0150,Amanda,Morris,amanda.morris@globaltech.com,2019-06-30,,Active,SMB Sales,East,MGR-003,62000.00,10.00,522000.00,Top Performer
