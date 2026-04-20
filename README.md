@@ -186,6 +186,7 @@ Top 10 sales reps by revenue
 
 Part 3: Advanced Business Queries (6 Queries)
 Complex analytical queries using CTEs, window functions, and multi-table joins:
+
 1️⃣ Sales Rep Performance vs Quota
 Business Question: Which sales reps are exceeding quotas and which are underperforming?
 Techniques Used:
